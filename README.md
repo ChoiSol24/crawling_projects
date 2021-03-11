@@ -1,7 +1,7 @@
-# crawling_projects
-python crawling projects by using selenium, bs4, pandas, etc .
+# Crawling_Projects
+// Description : python crawling projects by using selenium, bs4, pandas, etc .
 
-My Crawlng Project
+# My Crawlng Project
 
 1. Input free coupon Code to eventpage of game (Finish)
 
